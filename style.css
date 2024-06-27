@@ -554,7 +554,21 @@ text-decoration: none;
 
 /* -----------media-screen-------- */
 @media screen and (max-width: 650px){
-    
+    .home{
+        width: 480px;
+    }
+    .main-text{
+        width: 480px;
+    }
+    .skill-main{
+        width: 480px;
+    }
+    .resume{
+        width: 480px;
+    }
+     .contacts{
+         width: 480px;
+     }
     nav{
         padding: 0px 50px;
     }
